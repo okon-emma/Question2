@@ -1,4 +1,4 @@
-# Question2
+# Question 2
 Write a program in C# Sharp to display the list of items in the array according to the length of the string then by name in ascending order
 
 ## Sample
